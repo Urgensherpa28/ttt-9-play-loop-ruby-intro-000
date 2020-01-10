@@ -38,6 +38,6 @@ end
 # Define your play method below
 def play(board)
   while turn(board) == 9
-    play(board) == 9
+    puts turn(board)
   end
 end
