@@ -39,5 +39,4 @@ end
 def play(board)
   break until turn(board) == 9
     # turn(board)
-  end
 end
