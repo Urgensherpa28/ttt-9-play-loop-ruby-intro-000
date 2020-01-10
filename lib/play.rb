@@ -42,4 +42,5 @@ def play(board)
   end
   while turn(board) == 9
     break
+  end
 end
